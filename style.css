@@ -1,0 +1,116 @@
+body {
+    background: #eee;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    font-family: sans-serif;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+#divider {
+    border-bottom: 1px solid #ccc;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 10px;
+}
+
+#content {
+    background: white;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 10px;
+}
+
+#content h1 {
+    color: orange;
+    font-family: sans-serif;
+}
+
+#content p {
+    font-family: sans-serif;
+}
+
+#second {
+    background: white;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#second h1 {
+    color: orange;
+    font-family: sans-serif;
+}
+
+#second p {
+    font-family: sans-serif;
+}
+
+#second a {
+    text-decoration: none;
+    color: blue;
+}
+
+#report {
+    background: white;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 10px;
+}
+
+#report h1 {
+    color: orange;
+    font-family: sans-serif;
+}
+
+#faq {
+    color: black;
+    font-family: sans-serif;
+}
+
+#content ul {
+    background: white;
+}
+
+#link {
+    text-decoration: none;
+    color: blue;
+}
+
+#logo a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul li {
+    float: left;
+}
